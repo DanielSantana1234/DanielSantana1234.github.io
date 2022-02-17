@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio!
 
-You can use the [editor on GitHub](https://github.com/DanielSantana1234/DanielSantana1234.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Daniel Santana and I'm an aspiring software engineer, game developer, and video game enthusiast!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -21,7 +19,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code`
+
 
 [Link](url) and ![Image](src)
 ```
